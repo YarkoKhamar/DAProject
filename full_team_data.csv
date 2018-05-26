@@ -1,0 +1,648 @@
+,Club,League,League Level,Country,Region
+0,Real Madrid CF,Spanish Primera División ,1,Spain,Europe
+1,FC Bayern Munich,German Bundesliga ,1,Germany,Europe
+2,FC Barcelona,Spanish Primera División ,1,Spain,Europe
+3,Juventus,Italian Serie A ,1,Italy,Europe
+4,Manchester City,English Premier League ,1,England,Europe
+5,Tottenham Hotspur,English Premier League ,1,England,Europe
+6,Manchester United,English Premier League ,1,England,Europe
+7,Atlético Madrid,Spanish Primera División ,1,Spain,Europe
+8,Paris Saint-Germain,French Ligue 1 ,1,France,Europe
+9,Chelsea,English Premier League ,1,England,Europe
+10,Arsenal,English Premier League ,1,England,Europe
+11,Borussia Dortmund,German Bundesliga ,1,Germany,Europe
+12,Napoli,Italian Serie A ,1,Italy,Europe
+13,Roma,Italian Serie A ,1,Italy,Europe
+14,Liverpool,English Premier League ,1,England,Europe
+15,Lazio,Italian Serie A ,1,Italy,Europe
+16,Inter,Italian Serie A ,1,Italy,Europe
+17,FC Porto,Portuguese Primeira Liga ,1,Portugal,Europe
+18,Valencia CF,Spanish Primera División ,1,Spain,Europe
+19,AS Monaco,French Ligue 1 ,1,France,Europe
+20,Sevilla FC,Spanish Primera División ,1,Spain,Europe
+21,Milan,Italian Serie A ,1,Italy,Europe
+22,FC Schalke 04,German Bundesliga ,1,Germany,Europe
+23,Bayer 04 Leverkusen,German Bundesliga ,1,Germany,Europe
+24,Everton,English Premier League ,1,England,Europe
+25,Athletic Club de Bilbao,Spanish Primera División ,1,Spain,Europe
+26,Villarreal CF,Spanish Primera División ,1,Spain,Europe
+27,Beşiktaş JK,Turkish Süper Lig ,1,Turkey,Europe
+28,Sporting CP,Portuguese Primeira Liga ,1,Portugal,Europe
+29,SL Benfica,Portuguese Primeira Liga ,1,Portugal,Europe
+30,TSG 1899 Hoffenheim,German Bundesliga ,1,Germany,Europe
+31,RCD Espanyol,Spanish Primera División ,1,Spain,Europe
+32,Leicester City,English Premier League ,1,England,Europe
+33,Olympique de Marseille,French Ligue 1 ,1,France,Europe
+34,RB Leipzig,German Bundesliga ,1,Germany,Europe
+35,Olympique Lyonnais,French Ligue 1 ,1,France,Europe
+36,RC Celta de Vigo,Spanish Primera División ,1,Spain,Europe
+37,Real Betis Balompié,Spanish Primera División ,1,Spain,Europe
+38,Real Sociedad,Spanish Primera División ,1,Spain,Europe
+39,Borussia Mönchengladbach,German Bundesliga ,1,Germany,Europe
+40,Torino,Italian Serie A ,1,Italy,Europe
+41,Burnley,English Premier League ,1,England,Europe
+42,Eintracht Frankfurt,German Bundesliga ,1,Germany,Europe
+43,SD Eibar,Spanish Primera División ,1,Spain,Europe
+44,RC Deportivo de La Coruña,Spanish Primera División ,1,Spain,Europe
+45,West Ham United,English Premier League ,1,England,Europe
+46,Fenerbahçe SK,Turkish Süper Lig ,1,Turkey,Europe
+47,Spartak Moscow,Russian Premier League ,1,Russia,Europe
+48,Galatasaray SK,Turkish Süper Lig ,1,Turkey,Europe
+49,OGC Nice,French Ligue 1 ,1,France,Europe
+50,VfL Wolfsburg,German Bundesliga ,1,Germany,Europe
+51,Fiorentina,Italian Serie A ,1,Italy,Europe
+52,Hertha BSC Berlin,German Bundesliga ,1,Germany,Europe
+53,Zenit St. Petersburg,Russian Premier League ,1,Russia,Europe
+54,Watford,English Premier League ,1,England,Europe
+55,Shakhtar Donetsk,Ukrainian Premier League ,1,Ukraine,Europe
+56,West Bromwich Albion,English Premier League ,1,England,Europe
+57,AS Saint-Étienne,French Ligue 1 ,1,France,Europe
+58,Southampton,English Premier League ,1,England,Europe
+59,Ajax,Holland Eredivisie ,1,Netherlands,Europe
+60,CSKA Moscow,Russian Premier League ,1,Russia,Europe
+61,Bologna,Italian Serie A ,1,Italy,Europe
+62,Genoa,Italian Serie A ,1,Italy,Europe
+63,Chievo Verona,Italian Serie A ,1,Italy,Europe
+64,Stoke City,English Premier League ,1,England,Europe
+65,İstanbul Başakşehir FK,Turkish Süper Lig ,1,Turkey,Europe
+66,Atalanta,Italian Serie A ,1,Italy,Europe
+67,Lokomotiv Moscow,Russian Premier League ,1,Russia,Europe
+68,SV Werder Bremen,German Bundesliga ,1,Germany,Europe
+69,1. FC Köln,German Bundesliga ,1,Germany,Europe
+70,Crystal Palace,English Premier League ,1,England,Europe
+71,Feyenoord,Holland Eredivisie ,1,Netherlands,Europe
+72,SC Braga,Portuguese Primeira Liga ,1,Portugal,Europe
+73,FC Krasnodar,Russian Premier League ,1,Russia,Europe
+74,Bournemouth,English Premier League ,1,England,Europe
+75,Levante UD,Spanish Primera División ,1,Spain,Europe
+76,VfB Stuttgart,German Bundesliga ,1,Germany,Europe
+77,PSV,Holland Eredivisie ,1,Netherlands,Europe
+78,Newcastle United,English Premier League ,1,England,Europe
+79,River Plate,Argentinian Superliga  ,1,Argentina,South America
+80,Levante UD,Spanish Primera División ,1,Spain,Europe
+81,Olympiakos CFP,Greek Super League ,1,Greece,Europe
+82,Swansea City,English Premier League ,1,England,Europe
+83,PSV,Holland Eredivisie ,1,Netherlands,Europe
+84,Málaga CF,Spanish Primera División ,1,Spain,Europe
+85,Girondins de Bordeaux,French Ligue 1 ,1,France,Europe
+86,Hannover 96,German Bundesliga ,1,Germany,Europe
+87,Deportivo Alavés,Spanish Primera División ,1,Spain,Europe
+88,Independiente,Argentinian Superliga  ,1,Argentina,South America
+89,VfB Stuttgart,German Bundesliga ,1,Germany,Europe
+90,Brighton & Hove Albion,English Premier League ,1,England,Europe
+91,Sassuolo,Italian Serie A ,1,Italy,Europe
+92,FC Augsburg,German Bundesliga ,1,Germany,Europe
+93,Sampdoria,Italian Serie A ,1,Italy,Europe
+94,Girona CF,Spanish Primera División ,1,Spain,Europe
+95,Boca Juniors,Argentinian Superliga  ,1,Argentina,South America
+96,Newcastle United,English Premier League ,1,England,Europe
+97,1. FSV Mainz 05,German Bundesliga ,1,Germany,Europe
+98,Udinese,Italian Serie A ,1,Italy,Europe
+99,Toulouse FC,French Ligue 1 ,1,France,Europe
+100,Getafe CF,Spanish Primera División ,1,Spain,Europe
+101,Huddersfield Town,English Premier League ,1,England,Europe
+102,Vitória Guimarães,Portuguese Primeira Liga ,1,Portugal,Europe
+103,En Avant de Guingamp,French Ligue 1 ,1,France,Europe
+104,LOSC Lille,French Ligue 1 ,1,France,Europe
+105,Montpellier Hérault SC,French Ligue 1 ,1,France,Europe
+106,Celtic,Scottish Premiership ,1,Scotland,Europe
+107,FC Nantes,French Ligue 1 ,1,France,Europe
+108,AEK Athens,Greek Super League ,1,Greece,Europe
+109,Wolverhampton Wanderers,English Championship ,2,England,Europe
+110,Stade Rennais FC,French Ligue 1 ,1,France,Europe
+111,PAOK Thessaloniki,Greek Super League ,1,Greece,Europe
+112,RSC Anderlecht,Belgian First Division A ,1,Belgium,Europe
+113,Trabzonspor,Turkish Süper Lig ,1,Turkey,Europe
+114,Monterrey,Mexican Liga MX ,1,Mexico,North America
+115,San Lorenzo de Almagro,Argentinian Superliga  ,1,Argentina,South America
+116,Hamburger SV,German Bundesliga ,1,Germany,Europe
+117,Santos Futebol Clube,Campeonato Brasileiro Série A ,1,Brazil,South America
+118,FC Basel,Swiss Super League ,1,Switzerland,Europe
+119,Ferrara (SPAL),Italian Serie A ,1,Italy,Europe
+120,Rayo Vallecano,Spanish Segunda División ,2,Spain,Europe
+121,Bursaspor,Turkish Süper Lig ,1,Turkey,Europe
+122,SC Freiburg,German Bundesliga ,1,Germany,Europe
+123,Sociedade Esportiva Palmeiras,Campeonato Brasileiro Série A ,1,Brazil,South America
+124,Osmanlıspor,Turkish Süper Lig ,1,Turkey,Europe
+125,Atletico Nacional Medellin,Colombian Primera A ,1,Colombia,South America
+126,Amiens SC Football,French Ligue 1 ,1,France,Europe
+127,KAA Gent,Belgian First Division A ,1,Belgium,Europe
+128,Aston Villa,English Championship ,2,England,Europe
+129,SM Caen,French Ligue 1 ,1,France,Europe
+130,Granada CF,Spanish Segunda División ,2,Spain,Europe
+131,Racing Club de Avellaneda,Argentinian Superliga  ,1,Argentina,South America
+132,Angers SCO,French Ligue 1 ,1,France,Europe
+133,Standard de Liège,Belgian First Division A ,1,Belgium,Europe
+134,Botafogo de Futebol e Regatas,Campeonato Brasileiro Série A ,1,Brazil,South America
+135,AZ Alkmaar,Holland Eredivisie ,1,Netherlands,Europe
+136,Cruzeiro,Campeonato Brasileiro Série A ,1,Brazil,South America
+137,Al Hilal,Saudi Professional League ,1,Saudi Arabia,Asia
+138,Cagliari,Italian Serie A ,1,Italy,Europe
+139,Grêmio Foot-Ball Porto Alegrense,Campeonato Brasileiro Série A ,1,Brazil,South America
+140,Göztepe,Turkish Süper Lig ,1,Turkey,Europe
+141,Boavista FC,Portuguese Primeira Liga ,1,Portugal,Europe
+142,CA Osasuna,Spanish Segunda División ,2,Spain,Europe
+143,RC Strasbourg,French Ligue 1 ,1,France,Europe
+144,Clube Atlético Mineiro,Campeonato Brasileiro Série A ,1,Brazil,South America
+145,Atiker Konyaspor,Turkish Süper Lig ,1,Turkey,Europe
+146,Hellas Verona,Italian Serie A ,1,Italy,Europe
+147,FC Utrecht,Holland Eredivisie ,1,Netherlands,Europe
+148,CPD Junior Barranquilla,Colombian Primera A ,1,Colombia,South America
+149,Pachuca,Mexican Liga MX ,1,Mexico,North America
+150,Rubin Kazan,Russian Premier League ,1,Russia,Europe
+151,FC Metz,French Ligue 1 ,1,France,Europe
+152,KRC Genk,Belgian First Division A ,1,Belgium,Europe
+153,Colon de Santa Fe,Argentinian Superliga  ,1,Argentina,South America
+154,Fluminense Football Club,Campeonato Brasileiro Série A ,1,Brazil,South America
+155,Cruz Azul,Mexican Liga MX ,1,Mexico,North America
+156,Derby County,English Championship ,2,England,Europe
+157,Santos Laguna,Mexican Liga MX ,1,Mexico,North America
+158,Rio Ave FC,Portuguese Primeira Liga ,1,Portugal,Europe
+159,Kayserispor,Turkish Süper Lig ,1,Turkey,Europe
+160,Pachuca,Mexican Liga MX ,1,Mexico,North America
+161,Göztepe,Turkish Süper Lig ,1,Turkey,Europe
+162,Kayserispor,Turkish Süper Lig ,1,Turkey,Europe
+163,Benevento Calcio,Italian Serie A ,1,Italy,Europe
+164,Guadalajara,Mexican Liga MX ,1,Mexico,North America
+165,Club América,Mexican Liga MX ,1,Mexico,North America
+166,Club León,Mexican Liga MX ,1,Mexico,North America
+167,Al Ahli,Saudi Professional League ,1,Saudi Arabia,Asia
+168,Colon de Santa Fe,Argentinian Superliga  ,1,Argentina,South America
+169,Seattle Sounders FC,USA Major League Soccer ,1,United States,North America
+170,Sparta Praha,Czech Liga ,1,Czech Republic,Europe
+171,Dijon FCO,French Ligue 1 ,1,France,Europe
+172,Atiker Konyaspor,Turkish Süper Lig ,1,Turkey,Europe
+173,Rio Ave FC,Portuguese Primeira Liga ,1,Portugal,Europe
+174,Leeds United,English Championship ,2,England,Europe
+175,Vitesse,Holland Eredivisie ,1,Netherlands,Europe
+176,Rangers,Scottish Premiership ,1,Scotland,Europe
+177,Club Atlético Lanús,Argentinian Superliga  ,1,Argentina,South America
+178,Cádiz C.F.,Spanish Segunda División ,2,Spain,Europe
+179,Universidad de Chile,Chilian Primera División ,1,Chile,South America
+180,Cardiff City,English Championship ,2,England,Europe
+181,Medicana Sivasspor,Turkish Süper Lig ,1,Turkey,Europe
+182,LA Galaxy,USA Major League Soccer ,1,United States,North America
+183,Vitória Setúbal,Portuguese Primeira Liga ,1,Portugal,Europe
+184,FC København,Danish Superliga ,1,Denmark,Europe
+185,U.N.A.M.,Mexican Liga MX ,1,Mexico,North America
+186,Bristol City,English Championship ,2,England,Europe
+187,FC Rostov,Russian Premier League ,1,Russia,Europe
+188,Terek Grozny,Russian Premier League ,1,Russia,Europe
+189,Monarcas Morelia,Mexican Liga MX ,1,Mexico,North America
+190,Nottingham Forest,English Championship ,2,England,Europe
+191,Middlesbrough,English Championship ,2,England,Europe
+192,CD Aves,Portuguese Primeira Liga ,1,Portugal,Europe
+193,Panathinaikos FC,Greek Super League ,1,Greece,Europe
+194,FC Paços de Ferreira,Portuguese Primeira Liga ,1,Portugal,Europe
+195,FC Red Bull Salzburg,Austrian Bundesliga ,1,Austria,Europe
+196,Clube Atlético Paranaense,Campeonato Brasileiro Série A ,1,Brazil,South America
+197,SV Zulte-Waregem,Belgian First Division A ,1,Belgium,Europe
+198,Gimnàstic de Tarragona,Spanish Segunda División ,2,Spain,Europe
+199,Atlanta United FC,USA Major League Soccer ,1,United States,North America
+200,Sheffield Wednesday,English Championship ,2,England,Europe
+201,Gençlerbirliği SK,Turkish Süper Lig ,1,Turkey,Europe
+202,CS Marítimo,Portuguese Primeira Liga ,1,Portugal,Europe
+203,Fortuna Düsseldorf,German 2. Bundesliga ,2,Germany,Europe
+204,Coritiba Foot Ball Club,Campeonato Brasileiro Série A ,1,Brazil,South America
+205,FC Ingolstadt 04,German 2. Bundesliga ,2,Germany,Europe
+206,Deportivo Toluca,Mexican Liga MX ,1,Mexico,North America
+207,CD Tenerife,Spanish Segunda División ,2,Spain,Europe
+208,Alanyaspor,Turkish Süper Lig ,1,Turkey,Europe
+209,Jeonbuk Hyundai Motors,Korean K League Classic ,1,Korea Republic,Asia
+210,Akhisar Belediyespor,Turkish Süper Lig ,1,Turkey,Europe
+211,Club Tijuana,Mexican Liga MX ,1,Mexico,North America
+212,Asociacion Deportivo Cali,Colombian Primera A ,1,Colombia,South America
+213,Norwich City,English Championship ,2,England,Europe
+214,Estoril Praia,Portuguese Primeira Liga ,1,Portugal,Europe
+215,Club Atlético Huracán,Argentinian Superliga  ,1,Argentina,South America
+216,Empoli,Italian Serie B ,2,Italy,Europe
+217,Legia Warszawa,Polish Ekstraklasa ,1,Poland,Europe
+218,Estudiantes de La Plata,Argentinian Superliga  ,1,Argentina,South America
+219,Club Atlas,Mexican Liga MX ,1,Mexico,North America
+220,Dinamo Moscow,Russian Premier League ,1,Russia,Europe
+221,Hull City,English Championship ,2,England,Europe
+222,Sport Club do Recife,Campeonato Brasileiro Série A ,1,Brazil,South America
+223,Lech Poznań,Polish Ekstraklasa ,1,Poland,Europe
+224,Bari,Italian Serie B ,2,Italy,Europe
+225,Brentford,English Championship ,2,England,Europe
+226,Querétaro,Mexican Liga MX ,1,Mexico,North America
+227,BSC Young Boys,Swiss Super League ,1,Switzerland,Europe
+228,Preston North End,English Championship ,2,England,Europe
+229,Brøndby IF,Danish Superliga ,1,Denmark,Europe
+230,KV Oostende,Belgian First Division A ,1,Belgium,Europe
+231,Columbus Crew SC,USA Major League Soccer ,1,United States,North America
+232,Sporting Charleroi,Belgian First Division A ,1,Belgium,Europe
+233,New York Red Bulls,USA Major League Soccer ,1,United States,North America
+234,Palermo,Italian Serie B ,2,Italy,Europe
+235,Sporting Kansas City,USA Major League Soccer ,1,United States,North America
+236,PEC Zwolle,Holland Eredivisie ,1,Netherlands,Europe
+237,Royal Antwerp FC,Belgian First Division A ,1,Belgium,Europe
+238,Antalyaspor,Turkish Süper Lig ,1,Turkey,Europe
+239,Banfield,Argentinian Superliga  ,1,Argentina,South America
+240,Portland Timbers,USA Major League Soccer ,1,United States,North America
+241,Associação Atlética Ponte Preta,Campeonato Brasileiro Série A ,1,Brazil,South America
+242,Moreirense FC,Portuguese Primeira Liga ,1,Portugal,Europe
+243,Reading,English Championship ,2,England,Europe
+244,Portimonense SC,Portuguese Primeira Liga ,1,Portugal,Europe
+245,Rosenborg BK,Norwegian Eliteserien ,1,Norway,Europe
+246,ES Troyes AC,French Ligue 1 ,1,France,Europe
+247,New York City Football Club,USA Major League Soccer ,1,United States,North America
+248,Real Oviedo,Spanish Segunda División ,2,Spain,Europe
+249,Frosinone,Italian Serie B ,2,Italy,Europe
+250,FC Ufa,Russian Premier League ,1,Russia,Europe
+251,1. FC Nürnberg,German 2. Bundesliga ,2,Germany,Europe
+252,SV Darmstadt 98,German 2. Bundesliga ,2,Germany,Europe
+253,KV Oostende,Belgian First Division A ,1,Belgium,Europe
+254,FC Lorient,French Ligue 2 ,2,France,Europe
+255,Lech Poznań,Polish Ekstraklasa ,1,Poland,Europe
+256,CF Os Belenenses,Portuguese Primeira Liga ,1,Portugal,Europe
+257,Columbus Crew SC,USA Major League Soccer ,1,United States,North America
+258,CD Numancia,Spanish Segunda División ,2,Spain,Europe
+259,New York Red Bulls,USA Major League Soccer ,1,United States,North America
+260,Royal Antwerp FC,Belgian First Division A ,1,Belgium,Europe
+261,Antalyaspor,Turkish Süper Lig ,1,Turkey,Europe
+262,PEC Zwolle,Holland Eredivisie ,1,Netherlands,Europe
+263,SC Heerenveen,Holland Eredivisie ,1,Netherlands,Europe
+264,Banfield,Argentinian Superliga  ,1,Argentina,South America
+265,Sporting Kansas City,USA Major League Soccer ,1,United States,North America
+266,BSC Young Boys,Swiss Super League ,1,Switzerland,Europe
+267,Rosario Central,Argentinian Superliga  ,1,Argentina,South America
+268,Palermo,Italian Serie B ,2,Italy,Europe
+269,Kasimpaşa SK,Turkish Süper Lig ,1,Turkey,Europe
+270,Bari,Italian Serie B ,2,Italy,Europe
+271,Sporting Charleroi,Belgian First Division A ,1,Belgium,Europe
+272,Brentford,English Championship ,2,England,Europe
+273,Querétaro,Mexican Liga MX ,1,Mexico,North America
+274,Parma,Italian Serie B ,2,Italy,Europe
+275,UD Almería,Spanish Segunda División ,2,Spain,Europe
+276,Brøndby IF,Danish Superliga ,1,Denmark,Europe
+277,Real Salt Lake,USA Major League Soccer ,1,United States,North America
+278,Heracles Almelo,Holland Eredivisie ,1,Netherlands,Europe
+279,Lobos de la BUAP,Mexican Liga MX ,1,Mexico,North America
+280,Puebla,Mexican Liga MX ,1,Mexico,North America
+281,Lechia Gdańsk,Polish Ekstraklasa ,1,Poland,Europe
+282,FC Anzhi Makhachkala,Russian Premier League ,1,Russia,Europe
+283,Queens Park Rangers,English Championship ,2,England,Europe
+284,Sporting Lokeren,Belgian First Division A ,1,Belgium,Europe
+285,AD Alcorcón,Spanish Segunda División ,2,Spain,Europe
+286,Albacete Balompié,Spanish Segunda División ,2,Spain,Europe
+287,Aberdeen,Scottish Premiership ,1,Scotland,Europe
+288,Córdoba CF,Spanish Segunda División ,2,Spain,Europe
+289,1. FC Kaiserslautern,German 2. Bundesliga ,2,Germany,Europe
+290,Montreal Impact,USA Major League Soccer ,1,United States,North America
+291,Tiburones Rojos de Veracruz,Mexican Liga MX ,1,Mexico,North America
+292,Suwon Samsung Bluewings,Korean K League Classic ,1,Korea Republic,Asia
+293,Colorado Rapids,USA Major League Soccer ,1,United States,North America
+294,Godoy Cruz,Argentinian Superliga  ,1,Argentina,South America
+295,Vancouver Whitecaps FC,USA Major League Soccer ,1,United States,North America
+296,Atlético Tucumán,Argentinian Superliga  ,1,Argentina,South America
+297,Club Atlético Tigre,Argentinian Superliga  ,1,Argentina,South America
+298,Real Zaragoza,Spanish Segunda División ,2,Spain,Europe
+299,Philadelphia Union,USA Major League Soccer ,1,United States,North America
+300,SK Rapid Wien,Austrian Bundesliga ,1,Austria,Europe
+301,Al Nassr,Saudi Professional League ,1,Saudi Arabia,Asia
+302,Avaí Futebol Clube,Campeonato Brasileiro Série A ,1,Brazil,South America
+303,Kawasaki Frontale,Japanese J1 League ,1,Japan,Asia
+304,Deportes Tolima,Colombian Primera A ,1,Colombia,South America
+305,CF Reus Deportiu,Spanish Segunda División ,2,Spain,Europe
+306,Cremonese,Italian Serie B ,2,Italy,Europe
+307,Necaxa,Mexican Liga MX ,1,Mexico,North America
+308,KV Kortrijk,Belgian First Division A ,1,Belgium,Europe
+309,Sunderland,English Championship ,2,England,Europe
+310,CD Lugo,Spanish Segunda División ,2,Spain,Europe
+311,Universidad Católica,Chilian Primera División ,1,Chile,South America
+312,La Spezia,Italian Serie B ,2,Italy,Europe
+313,DSC Arminia Bielefeld,German 2. Bundesliga ,2,Germany,Europe
+314,SpVgg Greuther Fürth,German 2. Bundesliga ,2,Germany,Europe
+315,Eintracht Braunschweig,German 2. Bundesliga ,2,Germany,Europe
+316,FC Barcelona B,Spanish Segunda División ,2,Spain,Europe
+317,Ulsan Hyundai Horang-i,Korean K League Classic ,1,Korea Republic,Asia
+318,ADO Den Haag,Holland Eredivisie ,1,Netherlands,Europe
+319,C.D. Leonesa S.A.D.,Spanish Segunda División ,2,Spain,Europe
+320,AD Alcorcón,Spanish Segunda División ,2,Spain,Europe
+321,Unión Española,Chilian Primera División ,1,Chile,South America
+322,FC Dallas,USA Major League Soccer ,1,United States,North America
+323,Suwon Samsung Bluewings,Korean K League Classic ,1,Korea Republic,Asia
+324,ADO Den Haag,Holland Eredivisie ,1,Netherlands,Europe
+325,Cremonese,Italian Serie B ,2,Italy,Europe
+326,La Spezia,Italian Serie B ,2,Italy,Europe
+327,Lechia Gdańsk,Polish Ekstraklasa ,1,Poland,Europe
+328,Universidad Católica,Chilian Primera División ,1,Chile,South America
+329,Tondela,Portuguese Primeira Liga ,1,Portugal,Europe
+330,Deportes Tolima,Colombian Primera A ,1,Colombia,South America
+331,Malmö FF,Swedish Allsvenskan ,1,Sweden,Europe
+332,FC Barcelona B,Spanish Segunda División ,2,Spain,Europe
+333,Kashima Antlers,Japanese J1 League ,1,Japan,Asia
+334,KAS Eupen,Belgian First Division A ,1,Belgium,Europe
+335,Excelsior,Holland Eredivisie ,1,Netherlands,Europe
+336,San Jose Earthquakes,USA Major League Soccer ,1,United States,North America
+337,FC Sion,Swiss Super League ,1,Switzerland,Europe
+338,Amkar Perm,Russian Premier League ,1,Russia,Europe
+339,Houston Dynamo,USA Major League Soccer ,1,United States,North America
+340,Orlando Pirates,South African PSL ,1,South Africa,Africa
+341,AC Ajaccio,French Ligue 2 ,2,France,Europe
+342,Wisła Kraków,Polish Ekstraklasa ,1,Poland,Europe
+343,SG Dynamo Dresden,German 2. Bundesliga ,2,Germany,Europe
+344,Al Ittihad,Saudi Professional League ,1,Saudi Arabia,Asia
+345,Belgrano de Córdoba,Argentinian Superliga  ,1,Argentina,South America
+346,CD Feirense,Portuguese Primeira Liga ,1,Portugal,Europe
+347,AJ Auxerre,French Ligue 2 ,2,France,Europe
+348,Blackburn Rovers,English League One ,3,England,Europe
+349,Bolton Wanderers,English Championship ,2,England,Europe
+350,Chicago Fire Soccer Club,USA Major League Soccer ,1,United States,North America
+351,MSV Duisburg,German 2. Bundesliga ,2,Germany,Europe
+352,FC Tosno,Russian Premier League ,1,Russia,Europe
+353,New England Revolution,USA Major League Soccer ,1,United States,North America
+354,D.C. United,USA Major League Soccer ,1,United States,North America
+355,Vélez Sarsfield,Argentinian Superliga  ,1,Argentina,South America
+356,Cesena,Italian Serie B ,2,Italy,Europe
+357,AS Nancy Lorraine,French Ligue 2 ,2,France,Europe
+358,Sint-Truidense VV,Belgian First Division A ,1,Belgium,Europe
+359,Sangju Sangmu FC,Korean K League Classic ,1,Korea Republic,Asia
+360,Waasland-Beveren,Belgian First Division A ,1,Belgium,Europe
+361,Sydney FC,Australian A-League ,1,Australia,Oceania
+362,Club Atlético Patronato,Argentinian Superliga  ,1,Argentina,South America
+363,Minnesota United,USA Major League Soccer ,1,United States,North America
+364,FC Erzgebirge Aue,German 2. Bundesliga ,2,Germany,Europe
+365,Jagiellonia Białystok,Polish Ekstraklasa ,1,Poland,Europe
+366,Wigan Athletic,English League One ,3,England,Europe
+367,FC Groningen,Holland Eredivisie ,1,Netherlands,Europe
+368,Nîmes Olympique,French Ligue 2 ,2,France,Europe
+369,Defensa y Justicia,Argentinian Superliga  ,1,Argentina,South America
+370,CD America de Cali,Colombian Primera A ,1,Colombia,South America
+371,FC Twente,Holland Eredivisie ,1,Netherlands,Europe
+372,Willem II,Holland Eredivisie ,1,Netherlands,Europe
+373,AIK Solna,Swedish Allsvenskan ,1,Sweden,Europe
+374,Audax Italiano,Chilian Primera División ,1,Chile,South America
+375,Perugia,Italian Serie B ,2,Italy,Europe
+376,Pescara,Italian Serie B ,2,Italy,Europe
+377,1. FC Heidenheim,German 2. Bundesliga ,2,Germany,Europe
+378,F.B.C. Unione Venezia,Italian Serie B ,2,Italy,Europe
+379,SK Sturm Graz,Austrian Bundesliga ,1,Austria,Europe
+380,Valenciennes FC,French Ligue 2 ,2,France,Europe
+381,Vitória ,Campeonato Brasileiro Série A ,1,Brazil,South America
+382,Carpi,Italian Serie B ,2,Italy,Europe
+383,Independiente Medellín,Colombian Primera A ,1,Colombia,South America
+384,Holstein Kiel,German 2. Bundesliga ,2,Germany,Europe
+385,FK Austria Wien,Austrian Bundesliga ,1,Austria,Europe
+386,CD Universidad de Concepción,Chilian Primera División ,1,Chile,South America
+387,Barnsley,English Championship ,2,England,Europe
+388,Newell's Old Boys,Argentinian Superliga  ,1,Argentina,South America
+389,Urawa Red Diamonds,Japanese J1 League ,1,Japan,Asia
+390,Stade Brestois 29,French Ligue 2 ,2,France,Europe
+391,FC Ural,Russian Premier League ,1,Russia,Europe
+392,Unión de Santa Fe,Argentinian Superliga  ,1,Argentina,South America
+393,Pohang Steelers,Korean K League Classic ,1,Korea Republic,Asia
+394,CD Huachipato,Chilian Primera División ,1,Chile,South America
+395,Heart of Midlothian,Scottish Premiership ,1,Scotland,Europe
+396,Jeonnam Dragons,Korean K League Classic ,1,Korea Republic,Asia
+397,FC St. Gallen,Swiss Super League ,1,Switzerland,Europe
+398,FC Seoul,Korean K League Classic ,1,Korea Republic,Asia
+399,Royal Excel Mouscron,Belgian First Division A ,1,Belgium,Europe
+400,Virtus Entella,Italian Serie B ,2,Italy,Europe
+401,Gamba Osaka,Japanese J1 League ,1,Japan,Asia
+402,Vissel Kobe,Japanese J1 League ,1,Japan,Asia
+403,Heart of Midlothian,Scottish Premiership ,1,Scotland,Europe
+404,Hammarby IF,Swedish Allsvenskan ,1,Sweden,Europe
+405,Everton de Viña del Mar,Chilian Primera División ,1,Chile,South America
+406,Djurgårdens IF,Swedish Allsvenskan ,1,Sweden,Europe
+407,BK Häcken,Swedish Allsvenskan ,1,Sweden,Europe
+408,Deportivo Pasto,Colombian Primera A ,1,Colombia,South America
+409,CD Huachipato,Chilian Primera División ,1,Chile,South America
+410,FC Seoul,Korean K League Classic ,1,Korea Republic,Asia
+411,Tours FC,French Ligue 2 ,2,France,Europe
+412,Pohang Steelers,Korean K League Classic ,1,Korea Republic,Asia
+413,Jeonnam Dragons,Korean K League Classic ,1,Korea Republic,Asia
+414,Jeju United FC,Korean K League Classic ,1,Korea Republic,Asia
+415,Sevilla Atlético,Spanish Segunda División ,2,Spain,Europe
+416,RC Lens,French Ligue 2 ,2,France,Europe
+417,Strømsgodset IF,Norwegian Eliteserien ,1,Norway,Europe
+418,Le Havre AC,French Ligue 2 ,2,France,Europe
+419,IF Elfsborg,Swedish Allsvenskan ,1,Sweden,Europe
+420,Atlético Clube Goianiense,Campeonato Brasileiro Série A ,1,Brazil,South America
+421,Ascoli,Italian Serie B ,2,Italy,Europe
+422,Śląsk Wrocław,Polish Ekstraklasa ,1,Poland,Europe
+423,Lorca Deportiva CF,Spanish Segunda División ,2,Spain,Europe
+424,Avellino,Italian Serie B ,2,Italy,Europe
+425,Atlético Bucaramanga,Colombian Primera A ,1,Colombia,South America
+426,Karlsruher SC,German 3. Liga ,3,Germany,Europe
+427,Grasshopper Club Zürich,Swiss Super League ,1,Switzerland,Europe
+428,VVV-Venlo,Holland Eredivisie ,1,Netherlands,Europe
+429,Sparta Rotterdam,Holland Eredivisie ,1,Netherlands,Europe
+430,Royal Excel Mouscron,Belgian First Division A ,1,Belgium,Europe
+431,Cittadella,Italian Serie B ,2,Italy,Europe
+432,Brescia,Italian Serie B ,2,Italy,Europe
+433,Foggia,Italian Serie B ,2,Italy,Europe
+434,FC St. Gallen,Swiss Super League ,1,Switzerland,Europe
+435,Roda JC Kerkrade,Holland Eredivisie ,1,Netherlands,Europe
+436,Burton Albion,English Championship ,2,England,Europe
+437,Águilas Doradas,Colombian Primera A ,1,Colombia,South America
+438,FC Sochaux-Montbéliard,French Ligue 2 ,2,France,Europe
+439,NAC Breda,Holland Eredivisie ,1,Netherlands,Europe
+440,Novara,Italian Serie B ,2,Italy,Europe
+441,Zagłębie Lubin,Polish Ekstraklasa ,1,Poland,Europe
+442,Piast Gliwice,Polish Ekstraklasa ,1,Poland,Europe
+443,CD O'Higgins,Chilian Primera División ,1,Chile,South America
+444,SK Brann,Norwegian Eliteserien ,1,Norway,Europe
+445,Alianza Petrolera,Colombian Primera A ,1,Colombia,South America
+446,Vålerenga Fotball,Norwegian Eliteserien ,1,Norway,Europe
+447,Al Faisaly,Saudi Professional League ,1,Saudi Arabia,Asia
+448,Scunthorpe United,English League One ,3,England,Europe
+449,Oxford United,English League One ,3,England,Europe
+450,IFK Norrköping,Swedish Allsvenskan ,1,Sweden,Europe
+451,Paris FC,French Ligue 2 ,2,France,Europe
+452,La Berrichonne de Châteauroux,French Ligue 2 ,2,France,Europe
+453,1. FC Magdeburg,German 3. Liga ,3,Germany,Europe
+454,Western Sydney Wanderers,Australian A-League ,1,Australia,Oceania
+455,Bourg en Bresse Péronnas 01,French Ligue 2 ,2,France,Europe
+456,Jaguares Fútbol Club,Colombian Primera A ,1,Colombia,South America
+457,Patriotas Boyacá FC,Colombian Primera A ,1,Colombia,South America
+458,San Martín de San Juan,Argentinian Superliga  ,1,Argentina,South America
+459,Hansa Rostock,German 3. Liga ,3,Germany,Europe
+460,Arsenal de Sarandí,Argentinian Superliga  ,1,Argentina,South America
+461,La Equidad,Colombian Primera A ,1,Colombia,South America
+462,Vercelli,Italian Serie B ,2,Italy,Europe
+463,Melbourne City,Australian A-League ,1,Australia,Oceania
+464,US Orléans Loiret Football,French Ligue 2 ,2,France,Europe
+465,Brisbane Roar,Australian A-League ,1,Australia,Oceania
+466,Clermont Foot 63,French Ligue 2 ,2,France,Europe
+467,Charlton Athletic,English League One ,3,England,Europe
+468,Kalmar FF,Swedish Allsvenskan ,1,Sweden,Europe
+469,SV Wehen Wiesbaden,German 3. Liga ,3,Germany,Europe
+470,Shimizu S-Pulse,Japanese J1 League ,1,Japan,Asia
+471,Arka Gdynia,Polish Ekstraklasa ,1,Poland,Europe
+472,GFC Ajaccio,French Ligue 2 ,2,France,Europe
+473,Club de Deportes Temuco,Chilian Primera División ,1,Chile,South America
+474,Aarhus GF,Danish Superliga ,1,Denmark,Europe
+475,Würzburger FV,German 3. Liga ,3,Germany,Europe
+476,Pogoń Szczecin,Polish Ekstraklasa ,1,Poland,Europe
+477,Hibernian,Scottish Premiership ,1,Scotland,Europe
+478,Kilmarnock,Scottish Premiership ,1,Scotland,Europe
+479,Yokohama F. Marinos,Japanese J1 League ,1,Japan,Asia
+480,Kilmarnock,Scottish Premiership ,1,Scotland,Europe
+481,Alianza Petrolera,Colombian Primera A ,1,Colombia,South America
+482,Charlton Athletic,English League One ,3,England,Europe
+483,La Equidad,Colombian Primera A ,1,Colombia,South America
+484,Patriotas Boyacá FC,Colombian Primera A ,1,Colombia,South America
+485,Aarhus GF,Danish Superliga ,1,Denmark,Europe
+486,Würzburger FV,German 3. Liga ,3,Germany,Europe
+487,La Berrichonne de Châteauroux,French Ligue 2 ,2,France,Europe
+488,Incheon United FC,Korean K League Classic ,1,Korea Republic,Asia
+489,Ross County FC,Scottish Premiership ,1,Scotland,Europe
+490,FC Luzern,Swiss Super League ,1,Switzerland,Europe
+491,Curicó Unido,Chilian Primera División ,1,Chile,South America
+492,Aalborg BK,Danish Superliga ,1,Denmark,Europe
+493,Korona Kielce,Polish Ekstraklasa ,1,Poland,Europe
+494,FC Zürich,Swiss Super League ,1,Switzerland,Europe
+495,Al Qadisiyah,Saudi Professional League ,1,Saudi Arabia,Asia
+496,Adelaide United,Australian A-League ,1,Australia,Oceania
+497,Ternana,Italian Serie B ,2,Italy,Europe
+498,VfR Aalen,German 3. Liga ,3,Germany,Europe
+499,Hokkaido Consadole Sapporo,Japanese J1 League ,1,Japan,Asia
+500,Al Shabab,Saudi Professional League ,1,Saudi Arabia,Asia
+501,Perth Glory,Australian A-League ,1,Australia,Oceania
+502,Ettifaq FC,Saudi Professional League ,1,Saudi Arabia,Asia
+503,Melbourne Victory,Australian A-League ,1,Australia,Oceania
+504,Temperley,Argentinian Superliga  ,1,Argentina,South America
+505,SG Sonnenhof Großaspach,German 3. Liga ,3,Germany,Europe
+506,Górnik Zabrze,Polish Ekstraklasa ,1,Poland,Europe
+507,Shrewsbury,English League One ,3,England,Europe
+508,Sarpsborg 08 FF,Norwegian Eliteserien ,1,Norway,Europe
+509,CD Palestino,Chilian Primera División ,1,Chile,South America
+510,VfL Osnabrück,German 3. Liga ,3,Germany,Europe
+511,IFK Göteborg,Swedish Allsvenskan ,1,Sweden,Europe
+512,SC Preußen Münster,German 3. Liga ,3,Germany,Europe
+513,Odense Boldklub,Danish Superliga ,1,Denmark,Europe
+514,Bahía Blanca,Argentinian Superliga  ,1,Argentina,South America
+515,Atlético Huila,Colombian Primera A ,1,Colombia,South America
+516,Cracovia,Polish Ekstraklasa ,1,Poland,Europe
+517,Rotherham United,English League One ,3,England,Europe
+518,CD Antofagasta,Chilian Primera División ,1,Chile,South America
+519,AFC Wimbledon,English League One ,3,England,Europe
+520,Peterborough United,English League One ,3,England,Europe
+521,FSV Zwickau,German 3. Liga ,3,Germany,Europe
+522,Southend United,English League One ,3,England,Europe
+523,San Luis de Quillota,Chilian Primera División ,1,Chile,South America
+524,SC Paderborn 07,German 3. Liga ,3,Germany,Europe
+525,FC Lugano,Swiss Super League ,1,Switzerland,Europe
+526,SCR Altach,Austrian Bundesliga ,1,Austria,Europe
+527,St. Johnstone FC,Scottish Premiership ,1,Scotland,Europe
+528,Luton Town,English League Two ,4,England,Europe
+529,Santiago Wanderers,Chilian Primera División ,1,Chile,South America
+530,Odds BK,Norwegian Eliteserien ,1,Norway,Europe
+531,Randers FC,Danish Superliga ,1,Denmark,Europe
+532,FC Nordsjælland,Danish Superliga ,1,Denmark,Europe
+533,Bradford City,English League One ,3,England,Europe
+534,Al Taawoun,Saudi Professional League ,1,Saudi Arabia,Asia
+535,Milton Keynes Dons,English League One ,3,England,Europe
+536,Termalica Bruk-Bet Nieciecza,Polish Ekstraklasa ,1,Poland,Europe
+537,FC Lausanne-Sports,Swiss Super League ,1,Switzerland,Europe
+538,Al Raed,Saudi Professional League ,1,Saudi Arabia,Asia
+539,Chamois Niortais FC,French Ligue 2 ,2,France,Europe
+540,Daegu FC,Korean K League Classic ,1,Korea Republic,Asia
+541,FK Haugesund,Norwegian Eliteserien ,1,Norway,Europe
+542,SpVgg Unterhaching,German 3. Liga ,3,Germany,Europe
+543,SC Fortuna Köln,German 3. Liga ,3,Germany,Europe
+544,SønderjyskE,Danish Superliga ,1,Denmark,Europe
+545,Hallescher FC,German 3. Liga ,3,Germany,Europe
+546,Lyngby BK,Danish Superliga ,1,Denmark,Europe
+547,Júbilo Iwata,Japanese J1 League ,1,Japan,Asia
+548,Stabæk Fotball,Norwegian Eliteserien ,1,Norway,Europe
+549,Bristol Rovers,English League One ,3,England,Europe
+550,Al Fateh,Saudi Professional League ,1,Saudi Arabia,Asia
+551,Plymouth Argyle,English League One ,3,England,Europe
+552,Northampton Town,English League One ,3,England,Europe
+553,Notts County,English League Two ,4,England,Europe
+554,Sportfreunde Lotte,German 3. Liga ,3,Germany,Europe
+555,SV Meppen,German 3. Liga ,3,Germany,Europe
+556,Bury,English League One ,3,England,Europe
+557,Chemnitzer FC,German 3. Liga ,3,Germany,Europe
+558,Rochdale,English League One ,3,England,Europe
+559,Silkeborg IF,Danish Superliga ,1,Denmark,Europe
+560,Plymouth Argyle,English League One ,3,England,Europe
+561,Hobro IK,Danish Superliga ,1,Denmark,Europe
+562,Motherwell,Scottish Premiership ,1,Scotland,Europe
+563,Oldham Athletic,English League One ,3,England,Europe
+564,Kristiansund BK,Norwegian Eliteserien ,1,Norway,Europe
+565,Chemnitzer FC,German 3. Liga ,3,Germany,Europe
+566,Tromsø IL,Norwegian Eliteserien ,1,Norway,Europe
+567,Sandecja Nowy Sącz,Polish Ekstraklasa ,1,Poland,Europe
+568,Central Coast Mariners,Australian A-League ,1,Australia,Oceania
+569,Newcastle Jets,Australian A-League ,1,Australia,Oceania
+570,Sportfreunde Lotte,German 3. Liga ,3,Germany,Europe
+571,Hallescher FC,German 3. Liga ,3,Germany,Europe
+572,Bury,English League One ,3,England,Europe
+573,SV Meppen,German 3. Liga ,3,Germany,Europe
+574,Notts County,English League Two ,4,England,Europe
+575,Walsall,English League One ,3,England,Europe
+576,Stabæk Fotball,Norwegian Eliteserien ,1,Norway,Europe
+577,Fleetwood Town,English League One ,3,England,Europe
+578,Envigado FC,Colombian Primera A ,1,Colombia,South America
+579,Al Batin,Saudi Professional League ,1,Saudi Arabia,Asia
+580,Örebro SK,Swedish Allsvenskan ,1,Sweden,Europe
+581,Corporación Club Deportivo Tuluá,Colombian Primera A ,1,Colombia,South America
+582,Vegalta Sendai,Japanese J1 League ,1,Japan,Asia
+583,Coventry City,English League Two ,4,England,Europe
+584,Sandefjord Fotball,Norwegian Eliteserien ,1,Norway,Europe
+585,Wycombe Wanderers,English League Two ,4,England,Europe
+586,Gillingham,English League One ,3,England,Europe
+587,Mansfield Town,English League Two ,4,England,Europe
+588,US Quevilly-Rouen,French Ligue 2 ,2,France,Europe
+589,FC Carl Zeiss Jena,German 3. Liga ,3,Germany,Europe
+590,Werder Bremen II,German 3. Liga ,3,Germany,Europe
+591,Swindon Town,English League Two ,4,England,Europe
+592,Colchester United,English League Two ,4,England,Europe
+593,Blackpool,English League One ,3,England,Europe
+594,Chacarita Juniors,Argentinian Superliga  ,1,Argentina,South America
+595,Exeter City,English League Two ,4,England,Europe
+596,Rot-Weiß Erfurt,German 3. Liga ,3,Germany,Europe
+597,HJK Helsinki,Finnish Veikkausliiga ,1,Finland,Europe
+598,Lincoln City,English League Two ,4,England,Europe
+599,Dundee FC,Scottish Premiership ,1,Scotland,Europe
+600,Accrington Stanley,English League Two ,4,England,Europe
+601,Lillestrøm SK,Norwegian Eliteserien ,1,Norway,Europe
+602,Carlisle United,English League Two ,4,England,Europe
+603,Wellington Phoenix,Australian A-League ,1,Australia,Oceania
+604,Viking FK,Norwegian Eliteserien ,1,Norway,Europe
+605,FC Thun,Swiss Super League ,1,Switzerland,Europe
+606,Forest Green,English League Two ,4,England,Europe
+607,Dundalk,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
+608,Cambridge United,English League Two ,4,England,Europe
+609,Ventforet Kofu,Japanese J1 League ,1,Japan,Asia
+610,Ohod Club,Saudi Professional League ,1,Saudi Arabia,Asia
+611,Chesterfield,English League Two ,4,England,Europe
+612,Grimsby Town,English League Two ,4,England,Europe
+613,SKN St. Pölten,Austrian Bundesliga ,1,Austria,Europe
+614,GwangJu FC,Korean K League Classic ,1,Korea Republic,Asia
+615,AC Horsens,Danish Superliga ,1,Denmark,Europe
+616,Yeovil Town,English League Two ,4,England,Europe
+617,Omiya Ardija,Japanese J1 League ,1,Japan,Asia
+618,Crawley Town,English League Two ,4,England,Europe
+619,GIF Sundsvall,Swedish Allsvenskan ,1,Sweden,Europe
+620,Tigres FC,Colombian Primera A ,1,Colombia,South America
+621,Barnet,English League Two ,4,England,Europe
+622,Port Vale,English League Two ,4,England,Europe
+623,Aalesunds FK,Norwegian Eliteserien ,1,Norway,Europe
+624,Stevenage,English League Two ,4,England,Europe
+625,Jönköpings Södra IF,Swedish Allsvenskan ,1,Sweden,Europe
+626,Shamrock Rovers,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
+627,Hamilton Academical FC,Scottish Premiership ,1,Scotland,Europe
+628,Newport County,English League Two ,4,England,Europe
+629,Cheltenham Town,English League Two ,4,England,Europe
+630,St. Patrick's Athletic,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
+631,Cork City,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
+632,Albirex Niigata,Japanese J1 League ,1,Japan,Asia
+633,Morecambe,English League Two ,4,England,Europe
+634,Crewe Alexandra,English League Two ,4,England,Europe
+635,Halmstads BK,Swedish Allsvenskan ,1,Sweden,Europe
+636,AFC Eskilstuna,Swedish Allsvenskan ,1,Sweden,Europe
+637,FC Helsingør,Danish Superliga ,1,Denmark,Europe
+638,Bohemian FC,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
+639,Sogndal,Norwegian Eliteserien ,1,Norway,Europe
+640,Derry City,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
+641,Sligo Rovers,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
+642,Limerick FC,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
+643,Finn Harps,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
+644,Bray Wanderers,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
+645,Drogheda United,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
+646,Galway United,Rep. Ireland Premier Division ,1,Republic of Ireland,Europe
